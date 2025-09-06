@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Amazon Fine Food Reviews Sentiment Analysis
 
 Sentiment Analysis with VADER and NLTK
 This project demonstrates a simple sentiment analysis workflow using Python libraries such as pandas, numpy, matplotlib, seaborn, and nltk. The core of the sentiment analysis is performed using the VADER (Valence Aware Dictionary and sEntiment Reasoner) lexicon from NLTK.
